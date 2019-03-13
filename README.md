@@ -33,3 +33,7 @@ Plan the terraform using the following command to see what are the resources tha
 Create the infrastructure using the following command
 
 - terraform apply -aws_access_key AWSERR232SF112S335A -aws_secret_key asdasd123#$!as$fghh+wasd{aasdfgh@3345eet
+
+# Browsing the site
+
+Once the infrastructure created check the website with the public IP that is stored locally in the file as "public-ip.txt" as stated in the ec2.tf file
